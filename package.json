@@ -9,8 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "mongodb": "^4.12.1",
     "next": "13.0.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0"
   }
 }
